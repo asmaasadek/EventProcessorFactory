@@ -1,0 +1,14 @@
+E:\despGitHub\GitHub\picnic-backend-asmaasadek\src\main\java\tech\picnic\assignment\impl\BaseStreamProcessor.java
+E:\despGitHub\GitHub\picnic-backend-asmaasadek\src\main\java\tech\picnic\assignment\entities\Article.java
+E:\despGitHub\GitHub\picnic-backend-asmaasadek\src\main\java\tech\picnic\assignment\entities\Pick.java
+E:\despGitHub\GitHub\picnic-backend-asmaasadek\src\main\java\tech\picnic\assignment\api\EventProcessorFactory.java
+E:\despGitHub\GitHub\picnic-backend-asmaasadek\src\main\java\tech\picnic\assignment\api\package-info.java
+E:\despGitHub\GitHub\picnic-backend-asmaasadek\src\main\java\tech\picnic\assignment\api\StreamProcessor.java
+E:\despGitHub\GitHub\picnic-backend-asmaasadek\src\main\java\tech\picnic\assignment\entities\PickerOutput.java
+E:\despGitHub\GitHub\picnic-backend-asmaasadek\src\main\java\tech\picnic\assignment\utility\DateTimeUtility.java
+E:\despGitHub\GitHub\picnic-backend-asmaasadek\src\main\java\tech\picnic\assignment\impl\PickingEventProcessor.java
+E:\despGitHub\GitHub\picnic-backend-asmaasadek\src\main\java\tech\picnic\assignment\entities\Picker.java
+E:\despGitHub\GitHub\picnic-backend-asmaasadek\src\main\java\tech\picnic\assignment\impl\PickingEventProcessorFactory.java
+E:\despGitHub\GitHub\picnic-backend-asmaasadek\src\main\java\tech\picnic\assignment\utility\PropertiesUtility.java
+E:\despGitHub\GitHub\picnic-backend-asmaasadek\src\main\java\tech\picnic\assignment\impl\package-info.java
+E:\despGitHub\GitHub\picnic-backend-asmaasadek\src\main\java\tech\picnic\assignment\api\StdioStreamApplication.java

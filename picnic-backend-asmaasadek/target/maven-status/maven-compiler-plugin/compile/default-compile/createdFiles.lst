@@ -1,0 +1,15 @@
+tech\picnic\assignment\utility\PropertiesUtility.class
+tech\picnic\assignment\entities\Article.class
+tech\picnic\assignment\api\StreamProcessor.class
+tech\picnic\assignment\entities\Picker.class
+tech\picnic\assignment\entities\PickerOutput.class
+tech\picnic\assignment\api\StdioStreamApplication.class
+tech\picnic\assignment\entities\Pick.class
+tech\picnic\assignment\impl\PickingEventProcessorFactory.class
+tech\picnic\assignment\impl\PickingEventProcessor.class
+tech\picnic\assignment\entities\PickerOutput$Picker.class
+tech\picnic\assignment\impl\BaseStreamProcessor.class
+META-INF\services\tech.picnic.assignment.api.EventProcessorFactory
+tech\picnic\assignment\api\EventProcessorFactory.class
+tech\picnic\assignment\entities\PickerOutput$Pick.class
+tech\picnic\assignment\utility\DateTimeUtility.class
